@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  app-java:
+    build: .
+    container_name: app-java
+    image: app-java
+    volumes:
+      - .:/app  # Monta o diretório do projeto
+    working_dir: /app
+    stdin_open: true  # Mantém o stdin aberto para interação
+    tty: true         # Aloca um terminal virtual
+    command: ["bash"] # Inicia o container diretamente no bash
