@@ -1,5 +1,13 @@
-# Java com Docker
+# Java
 
+Repositório apresentado ao curso de **Java COMPLETO Programação Orientada a Objetos + Projetos**, do **Nelio Alves** . Ao longo do conteúdo, foram aplicados na prática os principais conceitos da linguagem Java, com foco em orientação a objetos, organização de código, boas práticas de desenvolvimento e construção de soluções modernas e eficientes.
+
+## Extensões deste repositório
+> ⚠️ Nota: Estes repositórios são complementares a este projeto principal.
+* [Curso de Spring Boot](https://github.com/luisitcho/curso-java-spring-dougllas-2025) - Repositório dedicado a parte de Spring Boot.
+
+---
+---
 
 ## Dockerfile
 
